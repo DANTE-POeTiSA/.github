@@ -1,6 +1,6 @@
 # DANTE-POeTiSA
 
-![Logo](https://avatars.githubusercontent.com/u/171199429?s=200&v=4)
+![Logo](https://lh3.googleusercontent.com/Iwr--DzDi-jwORye5cO2m84y3uBLx-rQXIgTT02n-7kPMTNHY0Hb-KE3jZmBw2iGKU6kOw=w16383)
 
 **POeTiSA** is a long-term project aimed at developing syntax-based resources and tools for the Brazilian Portuguese language, striving to achieve world state-of-the-art results.
 
